@@ -1,3 +1,4 @@
+# 👋 Hi, I'm Muhammad Anis Nawab
 # 💻 Desktop Tutorial Projects
 
 ## 📌 Description
@@ -23,3 +24,13 @@ This repository contains my beginner-level programming projects created while le
 1. Install Python
 2. Download any `.py` file
 3. Run using:
+
+
+## 🛠️ Technologies Used
+- Python 🐍
+
+## 🎯 Purpose
+This repository is part of my learning journey in programming and software development.
+
+## 👨‍💻 Author
+Muhammad Anis Nawab
