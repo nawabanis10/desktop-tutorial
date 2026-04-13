@@ -1,3 +1,7 @@
+# 🎲 Dice Roller Game
+## 📌 Description
+This is a simple Dice Roller game built in Python. It generates a random number between 1 and 6 when the user rolls the dice.
+
 import random
 import numbers
 
